@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.light{
+
+  background-color:black;
+  width: 6rem;
+  height:17rem;
+  border-radius: 20rem;
+  margin:20rem 20rem ;
+  border :5px solid rgb(80,80,80);
+  box-shadow: 10px 10px 0px 0px rgb(80, 80, 80);
+  margin-top: 35px;
+  padding-top: 10px;
+  
+}
+
+.color{
+  width: 3rem;
+  height: 3rem;
+  background-color: gray;
+  border-radius: 50%;
+  border: 3px soli grey;
+  padding-top: 1.5rem;
+  margin: 1px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  
+}
+
+ 
+
+ 
